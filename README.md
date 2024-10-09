@@ -14,7 +14,7 @@
 **JavaScript:** Utilized to handle interactive features and dynamic content, providing a responsive and functional Captcha Form experience.
 
 # How to View
-You can explore the  Captcha Form by visiting  https://manikandansridharan.github.io/Quiz-Game/. Feel free to browse the collection and reach out if you have any questions or collaboration ideas!
+You can explore the  Captcha Form by visiting  https://manikandansridharan.github.io/Simple_Captcha_Form/. Feel free to browse the collection and reach out if you have any questions or collaboration ideas!
 
 # Contributing
 We welcome contributions from the community to enhance and improve our Quiz Game website. Whether you have suggestions for new features or improvements, your input is valuable! To contribute, fork this repository, make your changes, and submit a pull request.
