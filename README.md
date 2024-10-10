@@ -17,7 +17,7 @@
 You can explore the  Captcha Form by visiting  https://manikandansridharan.github.io/Simple_Captcha_Form/. Feel free to browse the collection and reach out if you have any questions or collaboration ideas!
 
 # Contributing
-We welcome contributions from the community to enhance and improve our Quiz Game website. Whether you have suggestions for new features or improvements, your input is valuable! To contribute, fork this repository, make your changes, and submit a pull request.
+We welcome contributions from the community to enhance and improve our Captcha Form website. Whether you have suggestions for new features or improvements, your input is valuable! To contribute, fork this repository, make your changes, and submit a pull request.
 
 # Feedback
 We appreciate your feedback! If you have any issues, suggestions, or would like 
